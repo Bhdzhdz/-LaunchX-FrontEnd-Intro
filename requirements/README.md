@@ -1,3 +1,2 @@
----
-title: Requirements
-...
+
+[Requerimientos en español](es.md)
